@@ -35,10 +35,15 @@
   
 <distributionManagement>
     <repository>
-        <id>4df46e30af4e</id>
-        <name>4df46e30af4e-releases</name>
-        <url>http://13.127.229.164:8081/artifactory/list/jenkins/</url>
+        <id>rajesh</id>
+        <name>rajesh-releases</name>
+        <url>http://13.232.2.248:8080/artifactory/ashok</url>
     </repository>
+    <snapshotRepository>
+        <id>rajesh</id>
+        <name>rajesh-snapshots</name>
+        <url>http://13.232.2.248:8080/artifactory/ashok</url>
+    </snapshotRepository>
 </distributionManagement>
 
 
